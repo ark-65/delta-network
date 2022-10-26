@@ -1,0 +1,14 @@
+{
+    "name": "Delta Network",
+    "version": "0.0.1",
+    "description": "test network dev",
+    "manifest_version": 3,
+    "author": "ark65<liuwufangzhou@vip.qq.com>",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "webRequest",
+        "*://*.google.com/"
+    ]
+}
